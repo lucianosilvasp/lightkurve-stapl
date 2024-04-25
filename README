@@ -1,1 +1,3 @@
+*lightKurve-stapl
 
+Parallelization of periodograms from LightKurve Library with STAPL.
